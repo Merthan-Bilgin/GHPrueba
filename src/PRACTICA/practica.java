@@ -17,6 +17,7 @@ public class practica {
 		
 		
 		// User 3 fer la multiplicació dels elements de prodArray
+		
 	}
 
 }
